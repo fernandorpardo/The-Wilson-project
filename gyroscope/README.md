@@ -18,6 +18,7 @@ From there you can download the zip file ‘MPU6050-0.0.2’ and create the Ardu
 And adding the following 2
 - led.h
 - version.h
+- wilson.h
 
 The project is based on the example
 - examples\MPU6050_DMP6\MPU6050_DMP6.ino
